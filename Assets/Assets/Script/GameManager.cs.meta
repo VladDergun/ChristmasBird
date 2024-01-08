@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3eef91b0db47bdc40bdb73c00349428d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 3521156532609568298, guid: ae79967450e9ea1478858e049a0e1f0f, type: 3}
+  - pipes: {fileID: 9136681760518182289, guid: ab078834f465ae44ba4b4bce01f8db86, type: 3}
+  - scoreText: {fileID: 5399067549594167558, guid: a2115a9ff684d1d45abd1f9c8296a755, type: 3}
+  - playButton: {fileID: 6737368118957067660, guid: d9c260758b2dc614694faa5516d99045, type: 3}
+  - gameOver: {fileID: 4928020636107786243, guid: 271a43806631d7f499e6a76a222d072d, type: 3}
+  - newGame: {instanceID: 0}
+  - continueGame: {instanceID: 0}
+  - ExitButton: {instanceID: 0}
+  - Best: {fileID: 8102520081124548520, guid: b75d043288d65ca40af8a5e9c6c82eaf, type: 3}
+  - coinText: {fileID: 4178805793998829656, guid: d6c4c6238c44c8d49b840747a172382c, type: 3}
+  - bestScore: {fileID: 8102520081124548520, guid: b75d043288d65ca40af8a5e9c6c82eaf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
